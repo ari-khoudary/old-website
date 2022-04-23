@@ -7,7 +7,7 @@ img: /assets/projects/x_phi/summary_plot.png
 importance: 1
 ---
 
-Just like philosophy can help contextualize the scope of a scientific finding, so too can scientific methods shed light on philosophical positions developed on the basis of intuition. The latter is precisely the goal of the growing field known as experimental philosophy (or x-phi, for short), and as a philosophically-minded scientist, it's been really fun working on some projects to this end. 
+Just like philosophy can help contextualize the scope of a scientific finding, so too can scientific methods shed light on philosophical positions developed on the basis of intuition. The latter is precisely the goal of the growing field known as experimental philosophy (or x-phi, for short), and as a philosophically-minded scientist, it's been really fun working on some projects to this end.
 
 <br>
 
@@ -29,6 +29,6 @@ With Felipe De Brigard and Samuel Murray, I co-authored the chapter "Times Imagi
 
 ## Folk Psychology and Proximal Intentions
 
-Forthcoming in [*Philosophical Psychology*](https://www.tandfonline.com/toc/cphp20/current){:target="_blank"}! With [Thomas Nadelhoffer](https://sites.google.com/site/tnadelhoffer/home){:target="_blank"} and [Alfred Mele](https://philosophy.fsu.edu/alfred-mele){:target="_blank"}, I co-authored this paper examining how individuals who have not formally studied philosophy attribute intentionality to different kinds of actions. In support of the Single Phenomenon View of intentional action, we found a tight relationship between ascriptions of proximal intentions and intentional actions in non-moral scenarios. OSF preprint & supplementary materials available [here](https://osf.io/ag23x/){:target="_blank"}, data and code available [here](https://github.com/maria-khoudary/folk-psych-proximal-intentions){:target="_blank"}.
+Now published in [*Philosophical Psychology*](https://www.tandfonline.com/doi/pdf/10.1080/09515089.2021.1915471){:target="_blank"}! With [Thomas Nadelhoffer](https://sites.google.com/site/tnadelhoffer/home){:target="_blank"} and [Alfred Mele](https://philosophy.fsu.edu/alfred-mele){:target="_blank"}, I co-authored this paper examining how individuals who have not formally studied philosophy attribute intentionality to different kinds of actions. In support of the Single Phenomenon View of intentional action, we found a tight relationship between ascriptions of proximal intentions and intentional actions in non-moral scenarios. OSF preprint & supplementary materials available [here](https://osf.io/ag23x/){:target="_blank"}, data and code available [here](https://github.com/maria-khoudary/folk-psych-proximal-intentions){:target="_blank"}.
 
 <img src="../assets/projects/x_phi/scenario_means_s1.png" width=750 align=center>
