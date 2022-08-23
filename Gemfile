@@ -11,4 +11,5 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'jekyll-sitemap'
     gem 'jekyll-seo-tag'
+    gem 'webrick'
 end
