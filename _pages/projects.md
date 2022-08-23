@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: unpublished & in-progress work
-nav: true
+nav: false
 ---
 
 <div class="projects grid">

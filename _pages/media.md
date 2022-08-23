@@ -3,7 +3,7 @@ layout: page
 title: media
 permalink: /media/
 description: by & about me
-nav: true
+nav: false
 order: 2
 ---
 
