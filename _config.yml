@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Maria
+first_name: Ari
 middle_name:
 last_name: Khoudary
-email: makhouda@uci.edu
-description: Maria Khoudary's personal website # the ">" symbol means to ignore newlines until "footer_text:"
+email: ari.khoudary@uci.edu
+description: Ari Khoudary's personal website # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -33,7 +33,7 @@ footer_fixed: true
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: assets/img/prof_pic.jpeg # The site-wide (default for all links) Open Graph preview image
 twitter:
-  username: maria_khoudary
+  username: ari_khoudary
   card: summary
 logo: ../assets/img/favicon.png
 
@@ -41,9 +41,9 @@ logo: ../assets/img/favicon.png
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: maria-khoudary
-twitter_username: maria_khoudary
-linkedin_username: mariakhoudary
+github_username: ari-khoudary
+twitter_username: ari_khoudary
+linkedin_username: arikhoudary
 scholar_userid: 1KlIO8EAAAAJ&hl
 orcid_id: 0000-0002-1339-2600 # your ORCID ID
 medium_username: # your Medium username
@@ -55,7 +55,6 @@ keybase_username: # your keybase user name
 spotify_url: https://open.spotify.com/user/mariak0218?si=5DaYWMr4Rk-sUs7oz-eibw
 
 contact_note: >
-  I love meeting new people. Get in touch if anything I do sounds interesting!
 
 google_analytics: UA-185285640-1 # put your google-analytics code
 
@@ -72,7 +71,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: maria # put your disqus shortname
+disqus_shortname: ari # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
