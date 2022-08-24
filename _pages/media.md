@@ -15,7 +15,7 @@ order: 2
 
 <br>
 
-## [*default mode*](https://mariakhoudary.com/default_mode){:target="_blank"}
+## [*default mode*](https://arikhoudary.com/default_mode){:target="_blank"}
 
 
 The epitome of a passion project, *default mode* is a radio show wherein I play variants of psychedelic music and interview researchers in neuroscience, psychology, and philosophy. The first installment ran biweekly throughout my senior year, produced at and airing on [WZBC-Newton](https://wzbc.org){:target="_blank"}, my beloved non-profit, non-commercial college radio station. The second installment also aired biweekly on WZBC, but I produced it remotely from Durham. I'm taking a brief hiatus from the show as I settle into the groove of being a PhD student. But I have plans to resume broadcasting locally to listener in Orange County via [KUCI](https://kuci.org/wp/){:target="_blank"}.
