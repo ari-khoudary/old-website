@@ -41,11 +41,12 @@ a, table.table a {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
-    font-size: 1.2rem;
+    margin-left: 60px;
+    font-size: 0.75rem;
     p {
       display: inline-block;
-      margin: 0;
+      margin: 1;
+      align: center;
     }
   }
 }

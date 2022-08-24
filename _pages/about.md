@@ -7,7 +7,7 @@ description: cognitive (neuro)scientist-in-training
 profile:
   align: right
   image: june2022_portrait.jpg
-  address:
+  address: ari.khoudary (at) uci.edu
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
