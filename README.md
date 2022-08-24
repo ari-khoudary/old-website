@@ -19,7 +19,9 @@ Why Jekyll? Read this [blog post](https://karpathy.github.io/2014/07/01/switchin
 
 ### Installation
 
-You will need to have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first [fork](https://guides.github.com/activities/forking/) the theme from `github.com:alshedivat/al-folio` to `github.com:<your-username>/<your-repo-name>` and do the following:
+You will need to have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system. Personally, I have found managing Ruby on the M1 chip to be absolutely miserable. After many hours of fruitless attempts to get it working, I finally caved and bought [Ruby on Mac](https://www.rubyonmac.dev/). Since paying for software is antithetical to the purpose of making a github site, I will happily share this script with anyone from a historically marginalized group in academia.
+
+Once you've gotten Ruby working, first [fork](https://guides.github.com/activities/forking/) the theme from `github.com:alshedivat/al-folio` to `github.com:<your-username>/<your-repo-name>` and do the following:
 
 ```bash
 $ git clone git@github.com:<your-username>/<your-repo-name>.git
@@ -46,12 +48,12 @@ baseurl:  # should be empty
 ```
 
 <a id="below"></a>
-## Things tweaked on mariakhoudary.com
+## Things tweaked on arikhoudary.com
 
 1. I spent a ton of time troubleshooting how to host my default mode archive (did you know soundcloud limits your uploads to 3 hours on the free version?? I didn't!). [This post](https://portalzine.de/dev/html5/hosting-mp3-files-on-google-drive-html5-audio-player/) sealed the deal.
 2. I followed [this advice](https://gitter.im/alshedivat/al-folio?at=5f5a8890b190f2328e656862) for getting my CV to be a link on the header and not its own page.
 3. I hard-coded the order of my sites by creating a variable in the YAML header called `order`. Then in `_includes/header.html`, I went to the section `Other pages` and changed the first line after that comment to `{% assign sorted_pages = site.pages | sort: "order" %}`.
-4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. --> figured it out! you need to use html formatting because it's a variable. template in case, like me, you're learning html as you build your site: `Wondering how to <a href="https://namedrop.io/mariakhoudary" target="_blank">pronounce my name</a>?`
+4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. --> figured it out! you need to use html formatting because it's a variable. here's a template in case, like me, you're learning html as you build your site: `Wondering how to <a href="https://namedrop.io/arikhoudary" target="_blank">pronounce my name</a>?`
 5. I used [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) and [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) to help increase my SEO.
 6. I didn't like how the description on `about` looked on my site, so I commented it out of `_layouts/about.html`. It still works on previews though! And if you want to make it smaller, you can prefix the `class` call with `<p style="font-size:12px;"` (or whatever font size you want).
 
